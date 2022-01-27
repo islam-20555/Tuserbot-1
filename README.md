@@ -61,7 +61,7 @@
 
 <h4>اضغط علي Deploy!</h4>    
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/verson-205/Tuserbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/islam-20055/Tuserbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
     
 
